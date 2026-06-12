@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.venv/
+ENV/
+env/
+
+# Environment variables (contains private API keys)
+.env
+.env.local
+
+# Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
