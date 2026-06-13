@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@zonko-ai/harbor": "^2.31.0"
+  }
+}
